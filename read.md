@@ -6,7 +6,7 @@ Create a Metamask Account:-
 3) Currently we do not have any GoerliETH so we need to mine it because it will be needed as gas fees while deploying our token.
 4) From the website https://goerli-faucet.pk910.de/ we can mine GoerliETH by providing our metamask wallet address. we need to mine more than 0.01.
 
-Using 20lab
+Using 20lab:-
 1) https://20lab.app/ - Visit the website(20lab an ERC-20 token generator tool)
 2) Click on Open App, and click on start.
 3) We need to click on Connect Wallet and select our wallet which needs to be connected to 20lab for creating a token and its deployment.
